@@ -1,0 +1,13 @@
+{
+  "name": "spotify-static-playlists",
+  "version": "1.0.0",
+  "description": "Generate a web page with your spotify playlists.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "soyuka",
+  "license": "WTFPL",
+  "dependencies": {
+    "request": "^2.88.0",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
